@@ -9,6 +9,7 @@ A classification model designed to predict the likeliness of a person diagnosed 
 6. Breast
 7. Breast Quad
 8. Irradiat
+
 Using K Nearest Neighbor(KNN), the score of the ML model was around 0.98
 
 Dataset used: https://www.kaggle.com/datasets/ahmettezcantekin/beginner-datasets
