@@ -1,4 +1,4 @@
-# Cancer-Predictor
+# Cancer-Prediction
 A classification model designed to predict the likeliness of a person diagnosed with cancer or not based on the supplied features:
 
 1. Menopause
